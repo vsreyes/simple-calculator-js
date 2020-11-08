@@ -1,5 +1,5 @@
 body {
-  font-family: 'open sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-color: black;
 }
 #container {
@@ -11,7 +11,7 @@ body {
 }
 #calculator {
   width: 320px;
-  height: 520;
+  height: 520px;
   background-color: #eaedef;
   margin: 0 auto;
   top: 20px;
